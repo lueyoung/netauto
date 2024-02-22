@@ -1,0 +1,13 @@
+SHELL=/bin/bash
+MANIFEST=./manifest
+CONF=./conf
+SCRIPTS=./scripts
+TOOLS=./tools
+DOCKERFILES=./Dockerfiles
+BIN=./bin
+SRC=./src
+GOPATH=/root/go/src/core
+VM=tmp
+DEST_PATH=/usr/local/bin
+NAME=compiler
+IMAGE=lowyard/go-deps:latest
